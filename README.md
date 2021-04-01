@@ -1,4 +1,8 @@
-##👋 Hi, I’m Ritchie Li, this GitHub is only for the record my leetcode notes propose for now.
+##👋 Hi, I’m Qi Li, you can call me Rithchie Li  
+
+## I am looking for a job as a software engineer in US, no location limited, I am open to relocate.  
+
+##Here are my works and some notes of algorithm and data-structure.  
 
 ###Shortcut:
 
