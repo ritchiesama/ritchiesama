@@ -6,7 +6,7 @@ Here are my works and some notes of algorithm and data-structure.
 
 Shortcut:
 
-- [Upload multiple images from local to remote SQL server JAVA](https://github.com/ritchiesama/imageUploadToSQL)
+- [Upload multiple images from local to remote SQL server JAVA/C#](https://github.com/ritchiesama/imageUploadToSQL)
 - [leetcode catalog](https://github.com/ritchiesama/leetcode/blob/main/README.mdd)
 - [algorithm](https://github.com/ritchiesama/leetcode/tree/main/algorithm)
 - [data-structure](https://github.com/ritchiesama/leetcode/tree/main/data-structures)
